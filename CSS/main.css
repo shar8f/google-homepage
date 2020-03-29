@@ -1,0 +1,24 @@
+#user-icon {
+    font-weight: bold;
+    background: #33691e;
+    padding: 10px;
+    border-radius: 50%;
+    width: 19px;
+    text-align: center;
+    color: white;
+}
+#top-nav {
+    width: 100%;
+    display: block;
+    position: fixed;
+    top: 0px;
+}
+
+
+
+#top-nav ul {
+
+    display: flex;
+    float: right;
+
+}

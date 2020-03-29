@@ -1,0 +1,2 @@
+I have created the google-homepage project as a safe guard for future Odin project assignments to make sure I do not miss out on anything. Otherwise the skills demonstrated in the project are something I am already aquainted with. I would rather move on to Javascript which is my main interest in TOP but at the same time I would like to follow the right way.
+Because of this, I have decided to do only the easy project in the intrest of time.
